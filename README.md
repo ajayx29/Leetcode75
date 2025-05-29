@@ -1,2 +1,2 @@
 # Leetcode75
-Daily 1 leetcode
+An attempt at doing 1 leetcode everyday for 75 days.
